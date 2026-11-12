@@ -2,7 +2,6 @@
 **A Blockchain Developer | Web3 Security Enthusiast | Full-Stack Developer from India 🇮🇳.**
 
 *Email Me 👉 ✉️ **akritisaroj0@gmail.com** for Collaboration, Projects, or Anything Tech-Related! 😊*
-
 - 🔭 **I’m currently working on:** Blockchain security projects and decentralized applications (dApps)
 - 🌱 **I’m currently learning:** Smart Contract Security, Solidity, Zero-Knowledge Proofs, and AI × Web3
 - 👯 **I’m looking to collaborate on:** Blockchain, Web3, Open Source, and Full-Stack Projects
