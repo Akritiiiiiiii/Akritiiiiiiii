@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Akriti Saroj
+# 💫 Hi 👋, I'm Akriti
 **A Blockchain Developer | Web3 Security Enthusiast | Full-Stack Developer from India 🇮🇳.**  
         
 *Email Me 👉 ✉️ **akritisaroj0@gmail.com** for Collaboration, Projects, or Anything Tech-Related! 😊*
